@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "description": "ZERO Clan Widget : approved user fingerprints",
+  "approved": [
+    {
+      "alias": "Alchemiztt",
+      "hash": "be3430297a7ec1f5572b059c08ca3b6aec4502c054116c672977325eb30f65be",
+      "added": "2024-01-01",
+      "note": "Admin"
+    },
+    {
+      "alias": "Kato",
+      "hash": "a970b7033dedb9519f28a080965ad853a459ebda8e36951d511dc75688a5e129",
+      "added": "2026-04-11",
+      "note": ""
+    },
+    {
+      "alias": "lutaron",
+      "hash": "534ef368a7c529e7abc2359886c8679a25e2e101b6560c9dea8b8f200396ecd6",
+      "added": "2026-04-11",
+      "note": ""
+    },
+    {
+      "alias": "Weirdo",
+      "hash": "8a3ee4d27993b57a4b92e774bfcf095dfe6d061676d546e8e7552d80aea488df",
+      "added": "2026-04-11",
+      "note": ""
+    }
+  ]
+}
