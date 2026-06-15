@@ -1,7 +1,7 @@
 {
   "v": 1,
   "approved": [
-    { "alias": "Draconis",   "hash": "3f5c5d045e4e52161bafac40e1ab8a6dbff114ee2c4efc4d7e6ff8b51beccbc8", "Mice": "" },
+    { "alias": "Draconis",   "hash": "3f5c5d045e4e52161bafac40e1ab8a6dbff114ee2c4efc4d7e6ff8b51beccbc8", "note": "Mice" },
     { "alias": "Hydra",      "hash": "cb4719fa8e5be575a61ce62686bf091c48ac5f36fce046e58eb07c048ecfc8be", "note": "" },
     { "alias": "Vulom",      "hash": "6a58d4a268e96cc30ac82c7c1c5d63c748f35478732d13e3071e871ac8ac7580", "note": "" },
     { "alias": "Cat",        "hash": "122a642de83ff956860073c00708ff6750db4d5ee3419b1135262678c8b33119", "note": "" },
