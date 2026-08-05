@@ -1,0 +1,10 @@
+# The signature in approved.json.sig covers the EXACT BYTES of approved.json.
+#
+# Without this, git on Windows checks the file out with CRLF while storing and
+# serving LF, so a signature made against the working copy fails against what
+# raw.githubusercontent.com returns — which locks out every member at once.
+#
+# Force LF on checkout so the working copy, the stored blob, and the served
+# file are always identical.
+approved.json text eol=lf
+approved.json.sig text eol=lf
