@@ -55,11 +55,6 @@
       "alias": "Sorekan",
       "hash": "a2fe80f9c914cb73cdfb69429f6218c92f659faf7ce1cda06f46e1e71d4f4ddf",
       "note": ""
-    },
-    {
-      "alias": "ZZ-SelfTest",
-      "hash": "3a84da3b265f1ce4351255ac9d3ae3c8470a59b7fbcc16b18fcf0a627d34d979",
-      "note": "temporary — verifying the approve script"
     }
   ]
 }
