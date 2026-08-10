@@ -1,5 +1,4 @@
 {
-  "v": 1,
   "approved": [
     {
       "alias": "Mythi",
@@ -55,6 +54,11 @@
       "alias": "Sorekan",
       "hash": "a2fe80f9c914cb73cdfb69429f6218c92f659faf7ce1cda06f46e1e71d4f4ddf",
       "note": ""
+    },
+    {
+      "alias": "Faith",
+      "hash": "e7674a0497de44a9385d14acaa3c19ad642c40a1b9517669c4bbcc174242609a",
+      "note": "approved by the.alchemizt via Discord"
     }
   ]
 }
