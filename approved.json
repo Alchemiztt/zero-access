@@ -69,6 +69,11 @@
       "alias": "Nachtdrachin",
       "hash": "15df01be3c0414ae702f87b207b9ed05880bcc36faa021fe07591c3583c28110",
       "note": "approved by the.alchemizt via Discord"
+    },
+    {
+      "alias": "mythicvl",
+      "hash": "2dd8bd988137ca854b106fc30878386b35870f1a87e192ad924b43506d7c0e6c",
+      "note": "v2 hash; replaces legacy v1 entry Mythi (MAC-order drift)"
     }
   ]
 }
