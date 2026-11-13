@@ -74,6 +74,11 @@
       "alias": "mythicvl",
       "hash": "2dd8bd988137ca854b106fc30878386b35870f1a87e192ad924b43506d7c0e6c",
       "note": "v2 hash; replaces legacy v1 entry Mythi (MAC-order drift)"
+    },
+    {
+      "alias": "the.alchemizt",
+      "hash": "934f28c035202a05db482ded407ba370922ba471f33d69a7a6a4ae4349d07ae6",
+      "note": "new PC"
     }
   ]
 }
