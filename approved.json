@@ -1,11 +1,6 @@
 {
   "approved": [
     {
-      "alias": "Mythi",
-      "hash": "e9ad23f8117e03ebc0dc05431010931732c7ce76ec70e99b89d395a0b591d22c",
-      "note": "Mice"
-    },
-    {
       "alias": "Hydra",
       "hash": "cb4719fa8e5be575a61ce62686bf091c48ac5f36fce046e58eb07c048ecfc8be",
       "note": ""
